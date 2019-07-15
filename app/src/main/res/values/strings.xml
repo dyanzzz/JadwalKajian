@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Jadwal Kajian</string>
+    <string name="title_home">Home</string>
+    <string name="title_add">Add</string>
+    <string name="title_login">Login</string>
+    <string name="title_admin">Admin</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="detail_news">Detail News</string>
+    <string name="title_form_input_masjid">Form Input Masjid</string>
+    <string name="title_form_input_kajian">Form Input Kajian</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_list_masjid_maps">Map</string>
+
+    <string name="daftar_wilayah">Daftar Wilayah</string>
+    <string name="daftar_masjid">Daftar Masjid</string>
+    <string name="daftar_kajian">Daftar Kajian</string>
+    <string name="daftar_masjid_map">Lokasi Masjid</string>
+
+    <!--untuk Maps-->
+    <string name="map_type_normal">Type Normal</string>
+    <string name="map_type_terrain">Type Terrain</string>
+    <string name="map_type_satellite">Type Satellite</string>
+    <string name="map_type_hybrid">Type Hybrid</string>
+
+</resources>

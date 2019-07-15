@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.hyundaimobil.salesmanactivity.MainActivity">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="all">
+        <item
+            android:id="@+id/menuLogin"
+            android:icon="@drawable/ic_lock_outline_white_24dp"
+            android:title="Login" />
+    </group>
+
+</menu>
